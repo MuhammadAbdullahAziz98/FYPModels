@@ -12,7 +12,11 @@ from scipy import sparse
 from scipy.sparse.linalg import spsolve
 
 
-file = open('newecg3.txt')
+file = open('ecgnotrobot.txt')
+
+
+
+
 arr = []
 
 for f in file:
@@ -23,6 +27,7 @@ for f in file:
 
 
 arr = [int(a) for a in arr]
+
 
 
 app_len=0
