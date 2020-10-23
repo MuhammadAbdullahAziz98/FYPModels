@@ -2,8 +2,9 @@
 * 1D Convolution Neural Network for Abnormal ECG Detection
 * Fall Detection Model
 
-# EDOTE: Arduino Code
-
+## EDOTE: Arduino Code
+* ECG & heartbeat code
+* Fall Detection
 
 ## Normalizations and Data Pre-processing 
 * Moving Average Filter for ECG
